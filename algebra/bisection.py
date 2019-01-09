@@ -3,6 +3,8 @@
 # Website: dhrvsthr.ml
 # Python 3.6.1
 
+# importing 'math' module
+
 import math
 
 # Function 'f(x)' returns the functional value at 'x'
