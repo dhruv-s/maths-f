@@ -1,5 +1,5 @@
 """ a program to implement bisection method for finding root """
-# Dhruv Suthar [ github/dhrvsthr ]
+# Dhruv Suthar [ Github/dhrvsthr ]
 # Website: dhrvsthr.ml
 # Python 3.6.1
 
